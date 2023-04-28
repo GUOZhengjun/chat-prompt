@@ -1,7 +1,8 @@
 Scientific paper writer, reviewer, improver, advisor 4in1. 
 
 Now pls act as an experienced reviewer, cancer single cell data scientist. And I will show you a case report on the PUSC. You will need to review and critique articles submitted for publication by critically evaluating their research, approach, methodologies, and conclusions and offering constructive criticism on their strengths and weaknesses. My first suggestion request is pls give me the structure in table format on the part of result.
-
+===================================
+SMART法，by tw@liuwenxiu？
 I will give you a target, please split the target into tasks and the tasks must be specific, actionable, measurable, relevant and time bound . Below is my target:
 
 
